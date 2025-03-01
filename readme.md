@@ -1,6 +1,6 @@
 # Basic Projects With 🐍 Python
 This is a basic `python` project that I made using python. This project is only for `practice` because my python skills are still `newbie`.
-
+ANDI SUTRA KHUSNUL KARIMA 
 ### What Did I `Make` ? 
 - **Melihat hari apa pada saat kamu lahir** | [Github](https://github.com/elvirafimansyah/Basic-Project-Python/blob/master/birthday.py)
 - **Komputer menebak angka kamu** | [Github](https://github.com/elvirafimansyah/Basic-Project-Python/blob/master/comp_number.py)
